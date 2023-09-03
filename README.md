@@ -60,6 +60,8 @@ Nesta tela o usuário pode colocar os dados do pix e ele recebera o valor atual 
 
 Está é a aplicação o a qual levou o tempo de 9 dias para realizá-la trabalhando várias horas por dia. Esse freelancer foi um bom começo de carreira daiquiri muito conhecimento tanto técnico na criação do código, quando na noção de com o usuário utilizará, e tanto na de analista e entender o que o contratante queria e realizar a criação do website perfeitamente. Nesta aplicação trabalhei sosinho sendo o desenvolvedor Full Stack de todo o site.
 
+Link do site: https://aplicativosoficiais.online/avaliadordepremios/
+
 <br>
 <br>
 
