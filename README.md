@@ -1,7 +1,7 @@
 # Avaliador-de-Premios
 
 
-Olá, Meu nome é Eduardo Este repositório mostra um trabalho Freelancer realizado por min, no qual fui o desenvolvedor full Stack de um website. 
+Olá, Meu nome é Eduardo Este repositório mostra um trabalho Freelancer realizado por min, no qual fui o desenvolvedor Full Stack de um website. 
 
  O Avaliador de Premios é um site onde o usuário pode ganhar dinheiro apenas avaliando produtos de marcas famosas. O site não é aberto! Ou seja, você precisa comprar para ter acesso, é vendido por duas grandes plataformas a Perfectpay e a Braip. Nesta aplicação sou o desenvolvedor que foi contratado para criá-lo, não tenho a ver com vendas ou problemas relacionadas ao site! Todo design foi dado pelo contratante para que eu seguisse.
  
