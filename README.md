@@ -15,36 +15,35 @@ Olá, Meu nome é Eduardo Este repositório mostra um trabalho Freelancer realiz
   Nesta parte o usuário entra com seus dados e há uma verificação em JavaScript para que o preenchimento do formulário esteja correto, com os dados enviados tenho que consegui verificar se o usuário comprou o produto nas plataformas Perfectpay e a Braip, para isso tenho que utilizar duas APIs simultaneamente aonde primeira menta utilizo a API da Braip com filtros para trazes todos os usuários que compraram o produto, com isso pego o dados que o usuário forneceu no formulário e pesquiso para ver se tal comprou o produto, todo essa manipulação da api é feita com a linguem de programação PHP, aonde a api limita apenas 100 usuários por páginas, e a api trás diversas páginas na qual tenho que varre todas as paginas uma por uma para verificar se o usuário compro, claro isso tudo feio com o PHP nada manual.
 
 <div align="center">
-   <img src="API 1.png">
+   <img src="API1.png">
   <br>
 </div>
 
   Na imagem mostra um breve trecho do código de consumo da primeira api, agora verifico se o usuário foi encontrado na api da Braip caso o usuário tenha sido encontrado ele é castrado no banco do site e tem acessos, caso o usuário não tenha sido encontrado eu consumo a API da   Perfectpay na qual também tenho que varrer todas as paginas da API atras do usuário e refaço a verificação se agora o usuário tenha sido encontrado ele é cadastrado, e caso não o usuário ira para um tela de erro e com botão para acessar o link e comprar o produto ou entrar em contato, abaixo esta outro breve trecho do código consumindo a segunda API.
 
 <div align="center">
-   <img src="API 2.png">
+   <img src="API2.png">
   <br>
 </div>
 
   Esta parte me deu um conhecimento ainda maior sobrea manipulação de APIs tanto em PHP ou em JavaScript, agora com o usuário entrando no site cairá na home:
 
 <div align="center">
-   <img src=".png">
+   <img src="home.png">
   <br>
 </div>
 
   Nessa parte o usuário pode ver o seu saldo a barra de meta de saque e baixo as marcas para ele avaliar os produtos, cada marca tem diversos produtos cadastrados, quando o usuário entra em uns deles ira para esta página:
 
 <div align="center">
-   <img src=".png">
+   <img src="avaliacoes.png">
   <br>
 </div>
 
 Nesta tela é toda construída em PHP com Javascript, pois tenho que trazer todos esses elementos do banco de dados e mostrá-lo na tela, para isso pega as informações aleatoriamente do banco de dados para o usuário pode avaliar, e claro tendo uma verificação para nunca cair o mesmo produto duas vezes, após avaliar o produto o usuário ganhara a quantia mostrada na marca. Com isto basta o usuário ficar avaliando looks até atingir a meta e poder sacar seu dinheiro.
 
 <div align="center">
-   <h1>Imagens do Site</h1>
-   <img src=".png">
+   <img src="transferir.png">
   <br>
 </div>
 
