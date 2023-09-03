@@ -5,7 +5,7 @@ Olá, Meu nome é Eduardo Este repositório mostra um trabalho Freelancer realiz
 
  O Avaliador de Premios é um site onde o usuário pode ganhar dinheiro apenas avaliando produtos de marcas famosas. O site não é aberto! Ou seja, você precisa comprar para ter acesso, é vendido por duas grandes plataformas a Perfectpay e a Braip. Nesta aplicação sou o desenvolvedor que foi contratado para criá-lo, não tenho a ver com vendas ou problemas relacionadas ao site! Todo design foi dado pelo contratante para que eu seguisse.
  
- Essa Freelancer ajudou a minha evolução na criação de websites, mesmo tendo ficado preso a um design simples para o nível de front end atual meu, O beck end foi um grande desafio para min pois o site começa com uma interface de cadastro:
+ Essa Freelancer ajudou a minha evolução na criação de websites, O beck end foi um grande desafio para min pois o site começa com uma interface de cadastro:
  
 <div align="center">
    <img src="cadastro.png">
